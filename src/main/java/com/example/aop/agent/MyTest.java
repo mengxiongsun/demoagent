@@ -1,0 +1,7 @@
+package com.example.aop.agent;
+
+public class MyTest {
+    public static void main(String[] args) throws InterruptedException {
+        Thread.sleep(3000);
+    }
+}
